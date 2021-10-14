@@ -4,4 +4,4 @@ Projeto de consumir os dados da API dos correios e gerar o endereço da entrega.
 
 ## ✨ Demonstração    
 Veja abaixo uma foto do projeto.
-[![Image from imgbb](https://i.ibb.co/fqnXVtm/f67094de3f5f87fecdb09d9e2714c196.png)](https://ibb.co/hLZgxHp)
+[![Image from imgbb](https://media.giphy.com/media/T02MbKBnf2cZeo4GRP/giphy.gif)](https://media.giphy.com/media/T02MbKBnf2cZeo4GRP/giphy.gif)
